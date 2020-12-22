@@ -4,6 +4,8 @@
 # .tfstate files
 *.tfstate
 *.tfstate.*
+mykeypair
+output.terraform
 
 # Crash log files
 crash.log
