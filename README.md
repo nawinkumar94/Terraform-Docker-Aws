@@ -44,22 +44,28 @@ AWS Cloud
 ## **Usage**
 
 1.To Intialize the terraform configuration
-  terraform init
+
+  "terraform init"
 
 2.To Format the Terraform Config files
-  terraform fmt
+
+  "terraform fmt"
 
 3.To Validate the Terraform Config files
-  terraform validate
+
+  "terraform validate"
 
 4.To Get the Plan of Terraform Config files
-  terraform plan -out output.terraform
+
+  "terraform plan -out output.terraform"
 
 5.To Execute the Terraform Config
-  terraform apply "output.terraform"
+
+  "terraform apply "output.terraform"
 
 6.To Destroy or bring down the infrastructure
-  terraform destroy
+
+  "terraform destroy"
 
 ## **Project Insider**
 
